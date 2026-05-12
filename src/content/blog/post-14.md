@@ -95,9 +95,9 @@ This is `inline code`.
 
 ## Keyboard Input ekhane amcjnjcncnvKeyboard input allows users to interact with applications by pressing keys on their keyboards,
 
-Press <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>P</kbd>.
+Press
 
-## Superscript & Subscript hello nvnnvnr vrnnvjr vnr
+## Superscript & Subscript hello
 
 E = mc^2^
 
@@ -218,8 +218,6 @@ pnpm dev
 
 ## Linked Image
 
-​
-
 ## Video Embed (HTML)
 
 <iframe
@@ -319,8 +317,6 @@ gitGraph
 ***
 
 # MDX Components&#x20;
-
-​
 
 Basic JSX
 
@@ -460,9 +456,9 @@ _This text is not italic_
 
 # Autolinks
 
-​https://github.com​
+​https://github.com​​
 
-​https://openai.com​
+​https://openai.com​​
 
 ​<contact@example.com>​
 
