@@ -210,7 +210,7 @@ pnpm dev
 
 ***
 
-# Images & Media nvnfnnn
+# Images & Media Images and media can greatly enhance your content by providing visual interest and supporting your message.
 
 ## Markdown Image dcd
 
