@@ -17,7 +17,7 @@ draft: false
 ---
 # 🚀 Ultimate CMS Markdown + MDX Feature Test
 
-> A comprehensive content file to test Markdown, GFM, MDX, embeds, tables, callouts, syntax highlighting, shortcodes, task lists, mermaid diagrams, footnotes, and more.
+> A comprehensive content file to test Markdown, GFM, MDX
 
 ***
 
@@ -134,14 +134,14 @@ H~~2~~O
 
 # Tables
 
-| Feature                   | Supported               | Notes                    |
-| ------------------------- | ----------------------- | ------------------------ |
-| Tables                    | ✅ nvjnfnvfjnvfnfvnfjvnj | GitHub flavored markdown |
-| MDX ekahne thik korte hbe | ✅                       | JSX rendering            |
-| Mermaid                   | ⚠️                      | Depends on parser        |
-| Shortcodes                | ✅                       | Hugo / Astro / custom    |
+| Feature                   | Supported                                                                         | Notes                    |
+| ------------------------- | --------------------------------------------------------------------------------- | ------------------------ |
+| Tables                    | ✅ nvjnfnvfjnvfnfvnfjvnj                                                           | GitHub flavored markdown |
+| MDX ekahne thik korte hbe | ✅                                                                                 | JSX rendering            |
+| Mermaid                   | ⚠️ ddddddd                                                                        | Depends on parser        |
+| Shortcodes                | ✅ cdcdSome features may require additional configuration depending on your setup. | Hugo / Astro / custom    |
 
-## Alignment Tablevfvfvf
+## Alignment Table
 
 | Left | Center | Right |
 | ---- | ------ | ----- |
@@ -210,7 +210,7 @@ pnpm dev
 
 ***
 
-# Images & Media Images and media can greatly enhance your content by providing visual interest and supporting your message.
+# Images & Media
 
 ## Markdown Image dcd
 
@@ -359,12 +359,7 @@ This content is passed as children.
 
 {{< gist username/abcdef123456 >}}
 
-\{\{\< figure
-src="https://picsum.photos/800/400"
-title="Random Image"
-caption="Testing shortcode image rendering"
-
-> }}
+{{< figure src="https://picsum.photos/800/400" title="Random Image" caption="Testing shortcode image rendering" >}}
 
 ## Astro-style Components
 
@@ -456,9 +451,9 @@ _This text is not italic_
 
 # Autolinks
 
-​https://github.com​​
+​https://github.com​​​​​​
 
-​https://openai.com​​
+​https://openai.com​​​​​​
 
 ​<contact@example.com>​
 
@@ -481,7 +476,7 @@ MDX
 > > Quote Level 2
 > >
 > > ```js
-> > console.log('Nested code'); nhnvnf
+> > console.log('Nested code');
 > > ```
 
 ***
