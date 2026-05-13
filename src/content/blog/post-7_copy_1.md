@@ -35,6 +35,8 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 
 Hello how are you doing today?
 
-​
-
 Hello this is changed
+
+![](/images/case-studies/case-study-3.png)
+
+​
