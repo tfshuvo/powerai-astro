@@ -15,7 +15,7 @@ author:
 featured: false
 draft: false
 ---
-# 🚀 Ultimate CMS Markdown + MDX Feature Test
+# 🚀 Ultimate CMS Markdown + MDX Feature Test new
 
 > A comprehensive content file to test Markdown, GFM, MDX
 
@@ -451,9 +451,9 @@ _This text is not italic_
 
 # Autolinks
 
-​https://github.com​​​​​​
+​https://github.com​​​​​​​
 
-​https://openai.com​​​​​​
+​https://openai.com​​​​​​​
 
 ​<contact@example.com>​
 
