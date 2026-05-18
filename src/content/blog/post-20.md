@@ -15,17 +15,7 @@ author:
 featured: false
 draft: false
 ---
-This is new title, for testing, This is h1
-
-Made a change&#x20;
-
-
-
-Edge computing brings computation closer to the user, reducing latency and improving performance. With platforms like Cloudflare Workers, Deno Deploy, and Vercel Edge Functions, developers can run server-side code at the edge of the network.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## What is Edge Computing 5X?
+# What is Edge Computing 10X?
 
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
