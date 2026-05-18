@@ -1,5 +1,5 @@
 ---
-title: "Title change korla"
+title: "new title 1"
 meta_title: "Edge Computing for Web"
 description: "Edge computing moves compute logic closer to users by running code
   at distributed edge nodes around the globe, dramatically reducing latency.
