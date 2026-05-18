@@ -15,17 +15,11 @@ author:
 featured: false
 draft: false
 ---
-# This is new title, for testing
+This is new title, for testing
 
-​
+Made a change&#x20;
 
-# Update Hocceh naki
 
-​
-
-# r ekta line dialm
-
-​
 
 Edge computing brings computation closer to the user, reducing latency and improving performance. With platforms like Cloudflare Workers, Deno Deploy, and Vercel Edge Functions, developers can run server-side code at the edge of the network.
 
