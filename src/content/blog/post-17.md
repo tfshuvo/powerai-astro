@@ -16,28 +16,12 @@ author:
 featured: false
 draft: false
 ---
-Choosing the right database design patterns can make or break your application's performance and scalability. From relational to NoSQL, understanding when and how to apply different patterns is crucial for building robust web applications.
+## Task Table
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Schema Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-​
-
-> Good database design is about understanding your access patterns first and modeling your data to match them.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Indexing Strategies hello
-
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+| Task                 | Status     | Priority |
+| -------------------- | ---------- | -------- |
+| Implement Auth       | ✅ Done     | High     |
+| Add Markdown Support | 🔄 Ongoing | Medium   |
+| Deploy to Production | ⏳ Pending  | High     |
 
 ​
-
-​
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-vfv vjnnjvnfvnv
